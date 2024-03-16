@@ -1,5 +1,5 @@
 # This is a demo readme.
-#Explaining about how to use git hub through vs code<br>
+# Explaining about how to use git hub through vs code<br>
 Step 1<br>
 1. First create a folder in vs code.<br>
 2. Then create a git repository.<br>

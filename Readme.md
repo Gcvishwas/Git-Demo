@@ -4,7 +4,7 @@
 1. First create a folder in vs code.<br>
 2. Then create a git repository.<br>
 do the following things<br>
-#<font size=5>type in ls -a for checking whether the folder is initialized as git or not</font>font size><br>
+#<font size=40>type in ls -a for checking whether the folder is initialized as git or not</font>font size><br>
 #git init for initializing folder as git<br>
 #add files,edit files<br>
 #git add . for adding files and then git commit -m "messsage" for adding files in local system<br>

@@ -9,5 +9,6 @@ do the following things<br>
 * add files,edit files<br>
 * git add . for adding files and then git commit -m "messsage" for adding files in local system<br>
 * git remote add origin url for adding the folder from local macchine to github<br>
+```
 * git push -u origin main to push repositiory in github<br>
-
+```

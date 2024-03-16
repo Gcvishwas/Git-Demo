@@ -9,7 +9,7 @@ type in ls -a for checking whether the folder is initialized as git or not<br>
 ```
 ```
 git init for initializing folder as git<br>
- ```
+```
 ```
 add files,edit files<br>
 ```
@@ -18,6 +18,7 @@ add files,edit files<br>
 ```
  ```
  git remote add origin url for adding the folder from local macchine to github<br>
+```
 ```
 git push -u origin main to push repositiory in github<br>
 ```

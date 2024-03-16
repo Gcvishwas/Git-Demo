@@ -4,9 +4,9 @@
 1. First create a folder in vs code.<br>
 2. Then create a git repository.<br>
 * do the following things<br>
-```
+````
 type in ls -a for checking whether the folder is initialized as git or not<br>
-```
+````
 ```
 git init for initializing folder as git<br>
 ```
